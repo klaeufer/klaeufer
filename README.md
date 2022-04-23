@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile! 👋
 
-More info about me coming soon...
+More info coming soon...
 
 <!--
 **klaeufer/klaeufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
