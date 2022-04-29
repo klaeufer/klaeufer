@@ -3,8 +3,8 @@
 Active projects (links coming soon)
 - UnoAPI
 - DriveAware
-- Loyola42ndParallel
 - Doyle Living Systems Lab
+- Loyola42ndParallel (incubation)
 
 <!--
 **klaeufer/klaeufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
