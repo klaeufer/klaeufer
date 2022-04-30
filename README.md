@@ -1,6 +1,7 @@
-### Welcome to my GitHub profile! 👋
+Welcome to my GitHub profile! 👋
 
 Active projects (links coming soon)
+
 - UnoAPI
 - DriveAware
 - Doyle Living Systems Lab
