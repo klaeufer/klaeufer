@@ -6,6 +6,8 @@ Active projects (links coming soon)
 - Doyle Living Systems Lab
 - Loyola42ndParallel (incubation)
 
+[Curriculum Vitae (PDF)](https://github.com/klaeufer/cv/releases/latest/download/laufer-cv.pdf)
+
 <!--
 **klaeufer/klaeufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
