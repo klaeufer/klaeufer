@@ -4,6 +4,7 @@ Active projects (links coming soon)
 
 - UnoAPI
 - DriveAware
+- SparkBadge
 - Doyle Living Systems Lab
 - Loyola42ndParallel (incubation)
 
