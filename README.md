@@ -1,26 +1,16 @@
 Welcome to my GitHub profile! 👋
 
-## Active projects
-
-- [UnoAPI](https://unoapi.cs.luc.edu): Curricular modules for high-performance computing using data-parallel C++ with Intel's OneAPI.
-- [DriveAware](https://ecommons.luc.edu/csrs/ay2021-2022/techreport/1): Generating actionable data on social justice issues through vehicle-based citizen science.
-- [SparkBadge](https://github.com/klaeufer/sparkbadge): Longitudinal project status badges.
-- [Loyola42ndParallel](https://loyola42ndparallel.github.io) (incubation): A data-driven view of sustainability and other social justice challenges along the 42nd parallel, which runs not only through Chicago but also through Loyola University Chicago's main campus.
-- Doyle Living Systems Lab (incubation): Smart office spaces using open-source software and hardware.
-
-[Curriculum Vitae (PDF)](https://github.com/klaeufer/cv/releases/latest/download/laufer-cv.pdf)
-
 <!--
 **klaeufer/klaeufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [these projects](https://klaeufer.github.io/#research).
+- 🌱 I’m currently learning formal methods methods and tools for my new fall 2022 course.
+- 👯 I’m looking to collaborate on projects in environmental sustainability and other areas of social justice.
+- 🤔 I’m looking for help with research software/prototyping.
+- 💬 Ask me about research opportunities in the context of [these projects](https://klaeufer.github.io/#research).
+- 📫 How to reach me: see [my home page](https://klaeufer.github.com).
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: When I am not coding, writing, or teaching, I might be out jogging, pumping iron, working on my truck, or camping.
