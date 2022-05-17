@@ -1,12 +1,12 @@
 Welcome to my GitHub profile! 👋
 
-Active projects (links coming soon)
+## Active projects
 
-- UnoAPI
-- DriveAware
-- SparkBadge
-- Doyle Living Systems Lab
-- Loyola42ndParallel (incubation)
+- [UnoAPI](https://unoapi.cs.luc.edu): Curricular modules for high-performance computing using data-parallel C++ with Intel's OneAPI.
+- [DriveAware](https://ecommons.luc.edu/csrs/ay2021-2022/techreport/1): Generating actionable data on social justice issues through vehicle-based citizen science.
+- [SparkBadge](https://github.com/klaeufer/sparkbadge): Longitudinal project status badges.
+- [Loyola42ndParallel](https://loyola42ndparallel.github.io) (incubation): A data-driven view of sustainability and other social justice challenges along the 42nd parallel, which runs not only through Chicago but also through Loyola University Chicago's main campus.
+- Doyle Living Systems Lab (incubation): Smart office spaces using open-source software and hardware.
 
 [Curriculum Vitae (PDF)](https://github.com/klaeufer/cv/releases/latest/download/laufer-cv.pdf)
 
