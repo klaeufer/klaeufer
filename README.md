@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about research opportunities in the context of [these projects](https://klaeufer.github.io/#research).
 - 📫 How to reach me: see [my home page](https://klaeufer.github.com).
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: When I am not coding, writing, or teaching, I might be out jogging, pumping iron, working on my truck, or camping.
+- ⚡ Fun fact: When I am not teaching, coding, or writing, I might be out jogging, pumping iron, working on my truck, or camping.
