@@ -1,10 +1,10 @@
-Welcome to my GitHub profile! 👋
+## Welcome to my GitHub profile! 👋
 
 <!--
 **klaeufer/klaeufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on [these projects](https://klaeufer.github.io/#research).
 - 🌱 I’m currently learning formal methods methods and tools for my new fall 2022 course.
