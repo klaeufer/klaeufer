@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [these projects](https://klaeufer.github.io/#research).
+- 🔭 I’m currently working on lecture notes and code examples for my upcoming classes, as well as [these research projects](https://klaeufer.github.io/#research).
 - 🌱 I’m currently learning formal methods methods and tools for my new fall 2022 course.
 - 👯 I’m looking to collaborate on projects in environmental sustainability and other areas of social justice.
 - 🤔 I’m looking for help with research software/prototyping.
