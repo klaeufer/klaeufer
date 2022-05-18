@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects in environmental sustainability and other areas of social justice.
 - 🤔 I’m looking for help with research software/prototyping.
 - 💬 Ask me about research opportunities in the context of [these projects](https://klaeufer.github.io/#research).
-- 📫 How to reach me: see [my home page](https://klaeufer.github.io).
+- 📫 How to reach me: see [my home page](https://laufer.cs.luc.edu).
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: When I am not teaching, coding, or writing, I might be out jogging, pumping iron, working on my truck, or camping.
