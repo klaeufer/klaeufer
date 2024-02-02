@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about research opportunities in the context of [these projects](https://laufer.cs.luc.edu/#research).
 - 📫 How to reach me: see [my home page](https://laufer.cs.luc.edu).
 - 😄 Pronouns: he/him/his
-- 🧏 Languages: eng 🇺🇸🇨🇦/esp 🇨🇱🇨🇴🇵🇪/ger 🇩🇪🇦🇹/gsw 🇨🇭/ita 🇮🇹 (to varying degrees of proficiency)
+- 🧏 Languages: eng 🇺🇸🇨🇦/esp 🇨🇱🇨🇴🇵🇪/ger 🇩🇪/gsw 🇦🇹🇫🇷🇱🇮🇨🇭/ita 🇮🇹 (to varying degrees of proficiency)
 - ⚡ Fun fact: When I am not teaching, coding, or writing, I might be out jogging, pumping iron, working on my truck, or camping.
