@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on lecture notes and code examples for my upcoming classes, as well as [these research projects](https://laufer.cs.luc.edu/#research).
-- 🌱 I’m currently learning formal methods and tools for my [COMP 335/488 course](https://lucformalmethodscourse.github.io) in spring 2024, as well as completely revising my [COMP 371/471 programming languages course](https://lucproglangcourse.github.io) for fall 2024.
+- 🌱 I’m currently learning formal methods and tools for my [COMP 335/488 course](https://lucformalmethodscourse.github.io) in spring 2024, as well as completely revising my [COMP 371/471 programming languages course](https://lucproglangcourse.github.io) for fall 2024; in particular, I'm learning Rust.
 - 👯 I’m looking to collaborate on projects in environmental sustainability and other areas of social justice.
 - 🤔 I’m looking for help with research software/prototyping.
 - 💬 Ask me about research opportunities in the context of [these projects](https://laufer.cs.luc.edu/#research).
