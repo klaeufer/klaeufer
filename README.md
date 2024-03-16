@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: see [my home page](https://laufer.cs.luc.edu).
 - 😄 Pronouns: he/him/his
 - 🧏 Languages: eng 🇺🇸🇨🇦/spa 🇨🇱🇨🇴🇵🇪/deu 🇩🇪/gsw 🇦🇹🇫🇷🇩🇪🇮🇹🇱🇮🇨🇭/ita 🇮🇹 (to varying degrees of proficiency)
-- ⚡ Fun fact: When I am not teaching, programming, or writing, I might be out jogging, pumping iron, working on my truck, or camping.
+- ⚡ Fun fact: When I am not teaching, programming, or writing, I might be out jogging, pumping iron, working on my truck, or camping/hiking.
