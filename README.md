@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with research software/prototyping.
 - 💬 Ask me about research opportunities in the context of [these projects](https://laufer.cs.luc.edu/#research).
 - 📫 How to reach me: see [my home page](https://laufer.cs.luc.edu).
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/él/er/lui
 - 🧏 Languages: eng 🇺🇸🇨🇦/spa 🇨🇱🇨🇴🇵🇪/deu 🇩🇪/gsw 🇦🇹🇫🇷🇩🇪🇮🇹🇱🇮🇨🇭/ita 🇮🇹 (to varying degrees of proficiency)
 - ⚡ Fun fact: When I am not teaching, programming, or writing, I might be out jogging, pumping iron, working on my truck, or camping/hiking.
