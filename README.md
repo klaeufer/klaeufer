@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on lecture notes and code examples for my upcoming classes, as well as [these research projects](https://laufer.cs.luc.edu/#research).
+- 🔭 I’m currently working on lecture notes and code examples for my upcoming classes, as well as [these research projects](https://laufer.cs.luc.edu/publications/).
 - 🌱 I’m currently catching up on formal methods and tools for my [COMP 335/488 course](https://lucformalmethodscourse.github.io) in spring 2025, as well as revising my [COMP 371/471 programming languages course](https://lucproglangcourse.github.io) for fall 2025; I'm also learning more Rust.
 - 👯 I’m looking to collaborate on projects in environmental sustainability and other areas of social justice.
 - 🤔 I’m looking for help with research software/prototyping.
