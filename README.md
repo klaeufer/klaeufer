@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he 🇺🇸/él 🇵🇪/er 🇩🇪/lui 🇮🇹
 - 🧏 Languages: eng 🇺🇸🇨🇦/spa 🇨🇱🇨🇴🇵🇪/deu 🇦🇹🇧🇪🇩🇪🇱🇮🇱🇺🇨🇭/gsw 🇦🇹🇫🇷🇩🇪🇮🇹🇱🇮🇨🇭/ita 🇮🇹🇨🇭 (to varying degrees of proficiency)
 - ⚡ Fun fact: When I am not teaching, programming, or writing, I might be out jogging, pumping iron, doing minor work on my truck, or camping/hiking.
-
-[![Some of My Skills](https://skillicons.dev/icons?i=bash,java,latex,linux,rust,scala)](https://skillicons.dev)
