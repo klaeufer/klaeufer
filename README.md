@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m open to collaborate on projects in environmental sustainability and other areas of social justice.
 - 📫 How to reach me: see [my home page](https://laufer.cs.luc.edu).
 - 😄 Pronouns: he 🇺🇸/él 🇵🇪/er 🇩🇪/lui 🇮🇹
+- 🧏 Languages: eng 🇺🇸🇨🇦/spa 🇨🇱🇨🇴🇵🇪/deu 🇦🇹🇧🇪🇩🇪🇱🇮🇱🇺🇨🇭/gsw 🇦🇹🇫🇷🇩🇪🇮🇹🇱🇮🇨🇭/ita 🇮🇹🇨🇭 (to varying degrees of proficiency)
 - ⚡ Fun fact: When I am not teaching, programming, or writing, I might be out jogging, pumping iron, doing minor work on my truck, or camping/hiking.
 
-## Languages
-
-eng 🇺🇸🇨🇦/spa 🇨🇱🇨🇴🇵🇪/deu 🇦🇹🇧🇪🇩🇪🇱🇮🇱🇺🇨🇭/gsw 🇦🇹🇫🇷🇩🇪🇮🇹🇱🇮🇨🇭/ita 🇮🇹🇨🇭 (to varying degrees of proficiency)
+[![My Skills](https://skillicons.dev/icons?i=scala)](https://skillicons.dev)
