@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: see [my home page](https://laufer.cs.luc.edu).
 - 😄 Pronouns: he 🇺🇸/él 🇵🇪/er 🇩🇪/lui 🇮🇹
 - 🧏 Languages: deu 🇦🇹🇧🇪🇩🇪🇱🇮🇱🇺🇨🇭/gsw 🇦🇹🇫🇷🇩🇪🇮🇹🇱🇮🇨🇭/eng 🇺🇸🇨🇦/ita 🇮🇹🇨🇭/spa 🇨🇱🇨🇴🇵🇪 (in order of acquisition and to varying degrees of proficiency)
-- ⚡ Fun fact: When I am not teaching, programming, or writing, I might be out jogging, pumping iron, doing minor work on my truck, or camping/hiking.
+- ⚡ Fun fact: When I am not teaching, programming, or writing, I might be out trail jogging, pumping iron, doing minor work on my truck, or camping/hiking.
